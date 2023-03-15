@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>400</order>
+        <published_ref/>
+        <question display_value="Wheels">4134228647ed2510f67554f3836d43ae</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-14 18:58:56</sys_created_on>
+        <sys_id>31352a0e47ed2510f67554f3836d43c5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>20" front/21" rear spider-design Satin Graphite forged aluminum wheels</sys_name>
+        <sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
+        <sys_update_name>question_choice_31352a0e47ed2510f67554f3836d43c5</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-03-15 02:21:50</sys_updated_on>
+        <text>20" front/21" rear spider-design Satin Graphite forged aluminum wheels</text>
+        <value>20_front_21_rear_spider_design_satin_graphite_forged_aluminum_wheels</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=31352a0e47ed2510f67554f3836d43c5"/>
+</record_update>

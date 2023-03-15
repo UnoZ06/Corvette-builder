@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="Model">4e2cdec247ed2510f67554f3836d43dc</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-14 18:58:56</sys_created_on>
+        <sys_id>a4bcd60647ed2510f67554f3836d43ba</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Convertible Z06</sys_name>
+        <sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
+        <sys_update_name>question_choice_a4bcd60647ed2510f67554f3836d43ba</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-03-15 02:21:50</sys_updated_on>
+        <text>Convertible Z06</text>
+        <value>convertible_z_06</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=a4bcd60647ed2510f67554f3836d43ba"/>
+</record_update>
