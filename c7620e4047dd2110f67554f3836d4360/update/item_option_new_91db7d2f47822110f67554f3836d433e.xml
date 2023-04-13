@@ -25,7 +25,7 @@
         <help_text/>
         <hidden>false</hidden>
         <include_none>false</include_none>
-        <instructions><![CDATA[<p>SSN</p>]]></instructions>
+        <instructions/>
         <layout>normal</layout>
         <list_table/>
         <lookup_label/>
@@ -35,17 +35,17 @@
         <lookup_value/>
         <macro/>
         <macroponent/>
-        <mandatory>true</mandatory>
+        <mandatory>false</mandatory>
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>pii_ssn</name>
-        <order>400</order>
+        <name>email</name>
+        <order>300</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>PII(SSN)</question_text>
+        <question_text>Email</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -73,16 +73,16 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-04-13 04:10:22</sys_created_on>
-        <sys_id>e98b16c247ed2510f67554f3836d4373</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>PII(SSN)</sys_name>
-        <sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package>
+        <sys_created_on>2023-04-13 04:11:09</sys_created_on>
+        <sys_id>91db7d2f47822110f67554f3836d433e</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Email</sys_name>
+        <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
-        <sys_update_name>item_option_new_e98b16c247ed2510f67554f3836d4373</sys_update_name>
+        <sys_update_name>item_option_new_91db7d2f47822110f67554f3836d433e</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-04-13 04:12:27</sys_updated_on>
+        <sys_updated_on>2023-04-13 04:12:29</sys_updated_on>
         <table/>
         <tooltip/>
         <type>6</type>
@@ -90,7 +90,7 @@
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
-        <validate_regex/>
+        <validate_regex display_value="Email">e005e481530020107d13ddeeff7b12e5</validate_regex>
         <variable_name/>
         <variable_set/>
         <variable_width/>
@@ -101,22 +101,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=e98b16c247ed2510f67554f3836d4373"/>
-    <fx_price action="delete_multiple" query="id=e98b16c247ed2510f67554f3836d4373"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=91db7d2f47822110f67554f3836d433e"/>
+    <fx_price action="delete_multiple" query="id=91db7d2f47822110f67554f3836d433e"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price_if_checked</field>
-        <id>e98b16c247ed2510f67554f3836d4373</id>
+        <id>91db7d2f47822110f67554f3836d433e</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-03-14 18:07:20</sys_created_on>
-        <sys_id>40ab56c247ed2510f67554f3836d43d0</sys_id>
+        <sys_created_on>2023-04-13 04:11:09</sys_created_on>
+        <sys_id>77ebfd2f47822110f67554f3836d437f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-03-14 18:07:20</sys_updated_on>
+        <sys_updated_on>2023-04-13 04:11:09</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -124,16 +124,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>rec_price_if_checked</field>
-        <id>e98b16c247ed2510f67554f3836d4373</id>
+        <id>91db7d2f47822110f67554f3836d433e</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-03-14 18:07:20</sys_created_on>
-        <sys_id>f39b56c247ed2510f67554f3836d43cf</sys_id>
+        <sys_created_on>2023-04-13 04:11:09</sys_created_on>
+        <sys_id>f7ebfd2f47822110f67554f3836d437e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-03-14 18:07:20</sys_updated_on>
+        <sys_updated_on>2023-04-13 04:11:09</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>

@@ -6,7 +6,7 @@
         <question display_value="Tires">93356a0e47ed2510f67554f3836d43a4</question>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-03-14 18:58:57</sys_created_on>
+        <sys_created_on>2023-04-13 04:10:21</sys_created_on>
         <sys_id>db566a4e47ed2510f67554f3836d43b2</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Michelin® Pilot® Sport 4S 275/30ZR20 front and 345/25ZR21 rear, high performance</sys_name>
@@ -15,7 +15,7 @@
         <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
         <sys_update_name>question_choice_db566a4e47ed2510f67554f3836d43b2</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-03-15 02:21:50</sys_updated_on>
+        <sys_updated_on>2023-04-13 04:12:21</sys_updated_on>
         <text>Michelin® Pilot® Sport 4S 275/30ZR20 front and 345/25ZR21 rear, high performance</text>
         <value>michelin_pilot_sport_4_s_275_30_zr_20_front_and_345_25_zr_21_rear_high_performan</value>
     </question_choice>

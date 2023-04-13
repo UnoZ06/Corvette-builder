@@ -6,7 +6,7 @@
         <question display_value="Interior Trim">10e0a60a47ed2510f67554f3836d438f</question>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-03-14 18:58:56</sys_created_on>
+        <sys_created_on>2023-04-13 04:10:18</sys_created_on>
         <sys_id>1bc3a2ca47ed2510f67554f3836d43d6</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Natural, Napa leather seating surfaces with perforated inserts</sys_name>
@@ -15,7 +15,7 @@
         <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
         <sys_update_name>question_choice_1bc3a2ca47ed2510f67554f3836d43d6</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-03-15 02:21:49</sys_updated_on>
+        <sys_updated_on>2023-04-13 04:12:22</sys_updated_on>
         <text>Natural, Napa leather seating surfaces with perforated inserts</text>
         <value>natural_napa_leather_seating_surfaces_with_perforated_inserts</value>
     </question_choice>
