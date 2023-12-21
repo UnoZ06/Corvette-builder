@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections action="DELETE" form_id="d938c5d147ad6110f67554f3836d43f7" sys_domain="global" table="x_898415_corvett_0_corvette_order_builder" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-12 04:07:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d138c5d147ad6110f67554f3836d43fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_898415_corvett_0_corvette_order_builder" name="x_898415_corvett_0_corvette_order_builder" sys_domain="global" view="Default view">d938c5d147ad6110f67554f3836d43f7</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_898415_corvett_0_corvette_order_builder" sys_domain="global" view="Default view">de504dd9476d6110f67554f3836d4356</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-12 04:07:27</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-13 01:15:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>987a29e947ada110f67554f3836d43f3</sys_id>
+            <sys_mod_count>6</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_898415_corvett_0_corvette_order_builder" name="x_898415_corvett_0_corvette_order_builder" sys_domain="global" view="Default view">d938c5d147ad6110f67554f3836d43f7</sys_ui_form>
+            <sys_ui_section caption="Log" display_value="Log" name="x_898415_corvett_0_corvette_order_builder" sys_domain="global" view="Default view">147a29e947ada110f67554f3836d43f1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-13 14:14:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-13 02:14:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8608752947eda110f67554f3836d4321</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_898415_corvett_0_corvette_order_builder" name="x_898415_corvett_0_corvette_order_builder" sys_domain="global" view="Default view">d938c5d147ad6110f67554f3836d43f7</sys_ui_form>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_898415_corvett_0_corvette_order_builder" sys_domain="global" view="Default view">4608752947eda110f67554f3836d431e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-13 14:14:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_898415_corvett_0_corvette_order_builder</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-12 04:07:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d938c5d147ad6110f67554f3836d43f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_898415_corvett_0_corvette_order_builder</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
+            <sys_update_name>sys_ui_form_sections_d938c5d147ad6110f67554f3836d43f7</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-12 04:07:27</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</application>
+        <file_path/>
+        <instance_id>a0074767dbf8451031363feb6896197a</instance_id>
+        <instance_name>dev120610</instance_name>
+        <name>sys_ui_form_sections_d938c5d147ad6110f67554f3836d43f7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_form_sections form_id="d938c5d147ad6110f67554f3836d43f7" sys_domain="global" table="x_898415_corvett_0_corvette_order_builder" version="3"><sys_ui_form_section action="INSERT_OR_UPDATE"><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-12 04:07:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d138c5d147ad6110f67554f3836d43fa</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_898415_corvett_0_corvette_order_builder" name="x_898415_corvett_0_corvette_order_builder" sys_domain="global" view="Default view">d938c5d147ad6110f67554f3836d43f7</sys_ui_form><sys_ui_section caption="NULL" display_value="" name="x_898415_corvett_0_corvette_order_builder" sys_domain="global" view="Default view">de504dd9476d6110f67554f3836d4356</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-12 04:07:27</sys_updated_on></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-13 01:15:30</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>987a29e947ada110f67554f3836d43f3</sys_id><sys_mod_count>6</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_898415_corvett_0_corvette_order_builder" name="x_898415_corvett_0_corvette_order_builder" sys_domain="global" view="Default view">d938c5d147ad6110f67554f3836d43f7</sys_ui_form><sys_ui_section caption="Log" display_value="Log" name="x_898415_corvett_0_corvette_order_builder" sys_domain="global" view="Default view">147a29e947ada110f67554f3836d43f1</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-13 14:14:50</sys_updated_on></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-13 02:14:53</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8608752947eda110f67554f3836d4321</sys_id><sys_mod_count>2</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_898415_corvett_0_corvette_order_builder" name="x_898415_corvett_0_corvette_order_builder" sys_domain="global" view="Default view">d938c5d147ad6110f67554f3836d43f7</sys_ui_form><sys_ui_section caption="Statistics" display_value="Statistics" name="x_898415_corvett_0_corvette_order_builder" sys_domain="global" view="Default view">4608752947eda110f67554f3836d431e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-13 14:14:50</sys_updated_on></sys_ui_form_section><sys_ui_form action="INSERT_OR_UPDATE"><name>x_898415_corvett_0_corvette_order_builder</name><roles/><sys_class_name>sys_ui_form</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-12 04:07:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d938c5d147ad6110f67554f3836d43f7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_898415_corvett_0_corvette_order_builder</sys_name><sys_overrides/><sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package><sys_policy/><sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope><sys_update_name>sys_ui_form_sections_d938c5d147ad6110f67554f3836d43f7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-12 04:07:27</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_form></sys_ui_form_sections></record_update>]]></payload>
+        <payload_hash>249046107</payload_hash>
+        <record_name>Corvette order builder</record_name>
+        <reverted_from/>
+        <source>c7620e4047dd2110f67554f3836d4362</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-13 14:14:50</sys_created_on>
+        <sys_id>d0dcd0f14769e110f67554f3836d43af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>186db52eebe0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-13 14:14:50</sys_updated_on>
+        <type>Form Sections</type>
+        <update_guid>d8dcd0f12c69e1102b1e0ff94be1dfae</update_guid>
+        <update_guid_history>d8dcd0f12c69e1102b1e0ff94be1dfae:249046107,5cdcd0f1c569e11006aa3ea1d0d59ca9:-837418087,446c1cb14369e110f1c77986ce1eae80:1064443242,4c6c1cb13169e11098bdf156ec72a27c:865286442,0208752908eda1101728cb0ae184a223:249046107,a4a0b5615ceda110699379644a53887d:-262527227,eca0b56100eda1108cc812b2de476778:1070890340,4a103d219feda110d6ec85494670ec8d:1604290947,4e103d21d0eda110ba4b88426932a533:-1233746045,1a2b652d22ada11064d010f446e7d56d:-262527227,9a2b652d24ada1106aba3b97fd64b85c:-1890659389,1a2b652d4cada11067f325bebfcbb844:-1962080652,87ea612d40ada11051ac483a9b0b592a:-1307883585,83ea612d2bada1103aa0fa4e56956727:-546712257,d07a29e99fada110d38603d523c2a5f5:-413356241,e97669e52eada110a0fa973623bb7f52:1353487991,484665e540ada11003144277dfad98af:724403849,8b16e1e57fada110a120b6dad41d96ce:1353487991,2be521e582ada11032fc09ccfebb299d:-1444220926,9d13652538ada110b885ef17dbb88067:1353487991,72c55129936da1105fca6315e8ee4510:1289537193,019a0d5527ad611025d091ab03482f59:-1838769673,a6d841152fad61109c26d86be4f123eb:623298476,d53809d1d0ad6110496a6641c1c31b15:2064493933,1138c5d159ad6110a07845d58b276cf9:-1978568172</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-13 16:46:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_form">sys_ui_form</sys_db_object>
+        <sys_id>3a0e3f1720fb4ddb9e7562d54588e149</sys_id>
+        <sys_metadata>d938c5d147ad6110f67554f3836d43f7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_898415_corvett_0_corvette_order_builder</sys_name>
+        <sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package>
+        <sys_parent display_value="">96400dd9476d6110f67554f3836d43da</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
+        <sys_scope_delete display_value="">26d1c9c396884dc49575824a8f684a51</sys_scope_delete>
+        <sys_update_name>sys_ui_form_sections_d938c5d147ad6110f67554f3836d43f7</sys_update_name>
+        <sys_update_version display_value="sys_ui_form_sections_d938c5d147ad6110f67554f3836d43f7">d0dcd0f14769e110f67554f3836d43af</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-13 16:46:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

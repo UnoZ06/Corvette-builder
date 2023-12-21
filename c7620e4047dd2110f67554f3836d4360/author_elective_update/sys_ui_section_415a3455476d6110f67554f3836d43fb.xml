@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="415a3455476d6110f67554f3836d43fb" sys_domain="global" table="x_898415_corvett_0_car_build_info" version="3" view="">
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_898415_corvett_0_car_build_info</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-12 03:06:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>415a3455476d6110f67554f3836d43fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_898415_corvett_0_car_build_info</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
+            <sys_update_name>sys_ui_section_415a3455476d6110f67554f3836d43fb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-12 03:06:49</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</application>
+        <file_path/>
+        <instance_id>a0074767dbf8451031363feb6896197a</instance_id>
+        <instance_name>dev120610</instance_name>
+        <name>sys_ui_section_415a3455476d6110f67554f3836d43fb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="415a3455476d6110f67554f3836d43fb" sys_domain="global" table="x_898415_corvett_0_car_build_info" version="3" view=""><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_898415_corvett_0_car_build_info</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-12 03:06:49</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>415a3455476d6110f67554f3836d43fb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_898415_corvett_0_car_build_info</sys_name><sys_overrides/><sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package><sys_policy/><sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope><sys_update_name>sys_ui_section_415a3455476d6110f67554f3836d43fb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-12 03:06:49</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>801458841</payload_hash>
+        <record_name>Car Build Info</record_name>
+        <reverted_from/>
+        <source>c7620e4047dd2110f67554f3836d4362</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-12 03:06:49</sys_created_on>
+        <sys_id>095a3455476d6110f67554f3836d43fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>186d3c8fb000000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-12 03:06:49</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>c55a3455096d6110362785cc9f02a7fe</update_guid>
+        <update_guid_history>c55a3455096d6110362785cc9f02a7fe:801458841</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-12 03:09:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>5ed161949c29405f9a32ed2cf91c0099</sys_id>
+        <sys_metadata>415a3455476d6110f67554f3836d43fb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_898415_corvett_0_car_build_info</sys_name>
+        <sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package>
+        <sys_parent display_value="">b54abc55476d6110f67554f3836d4383</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
+        <sys_scope_delete display_value="">26d1c9c396884dc49575824a8f684a51</sys_scope_delete>
+        <sys_update_name>sys_ui_section_415a3455476d6110f67554f3836d43fb</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_415a3455476d6110f67554f3836d43fb">095a3455476d6110f67554f3836d43fe</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-12 03:09:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

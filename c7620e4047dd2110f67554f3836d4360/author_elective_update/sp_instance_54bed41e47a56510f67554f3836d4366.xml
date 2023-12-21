@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">be7d90da47a56510f67554f3836d43c2</sp_column>
+        <sp_widget display_value="Announcements">94c300c7e777320075c2a117c2f6a9e7</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-15 03:39:59</sys_created_on>
+        <sys_id>54bed41e47a56510f67554f3836d4366</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Order your new corvette here!</sys_name>
+        <sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
+        <sys_update_name>sp_instance_54bed41e47a56510f67554f3836d4366</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-15 04:21:13</sys_updated_on>
+        <title>Order your new corvette here!</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"title": {
+		"value": "Order your new corvette here!",
+		"displayValue": "Order your new corvette here!"
+	},
+	"glyph": {
+		"value": "",
+		"displayValue": ""
+	},
+	"type": {
+		"value": ""
+	},
+	"paginate": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"max_records": {
+		"value": null,
+		"displayValue": ""
+	},
+	"view_all_page": {
+		"value": "ecc828d3e733320075c2a117c2f6a91f",
+		"displayValue": "announcements"
+	},
+	"use_display_style": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=54bed41e47a56510f67554f3836d4366"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</application>
+        <file_path/>
+        <instance_id>a0074767dbf8451031363feb6896197a</instance_id>
+        <instance_name>dev120610</instance_name>
+        <name>sp_instance_54bed41e47a56510f67554f3836d4366</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;be7d90da47a56510f67554f3836d43c2&lt;/sp_column&gt;&lt;sp_widget display_value="Announcements"&gt;94c300c7e777320075c2a117c2f6a9e7&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-03-15 03:39:59&lt;/sys_created_on&gt;&lt;sys_id&gt;54bed41e47a56510f67554f3836d4366&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_name&gt;Order your new corvette here!&lt;/sys_name&gt;&lt;sys_package display_value="Corvette Builder" source="x_898415_corvett_0"&gt;c7620e4047dd2110f67554f3836d4360&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Corvette Builder"&gt;c7620e4047dd2110f67554f3836d4360&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_54bed41e47a56510f67554f3836d4366&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-03-15 04:21:13&lt;/sys_updated_on&gt;&lt;title&gt;Order your new corvette here!&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"title": {
+		"value": "Order your new corvette here!",
+		"displayValue": "Order your new corvette here!"
+	},
+	"glyph": {
+		"value": "",
+		"displayValue": ""
+	},
+	"type": {
+		"value": ""
+	},
+	"paginate": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"max_records": {
+		"value": null,
+		"displayValue": ""
+	},
+	"view_all_page": {
+		"value": "ecc828d3e733320075c2a117c2f6a91f",
+		"displayValue": "announcements"
+	},
+	"use_display_style": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=54bed41e47a56510f67554f3836d4366"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-164378003</payload_hash>
+        <record_name>Order your new corvette here!</record_name>
+        <reverted_from/>
+        <source>c7620e4047dd2110f67554f3836d4362</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-15 04:21:14</sys_created_on>
+        <sys_id>d028ec5647e56510f67554f3836d4353</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>186e3802f210000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-15 04:21:14</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>1c28ec5680e56510e37f6e461db1a752</update_guid>
+        <update_guid_history>1c28ec5680e56510e37f6e461db1a752:-164378003,2d082c56d5e565109d2056e57609986b:-1222410400,1ce7e856cbe56510fbdab0d73d8474e4:-1381986362,d287a45686e56510c69e2900dbd7ea5c:863151640,8bd62c92dde56510309b7bb0a906fc97:554953172,1cbed41ef6a56510de84204ed1466b67:970550502</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Order your new corvette here!">b888249647e56510f67554f3836d4336</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-15 04:22:54</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>47aecc0f788c47ceb8a206cce63ff249</sys_id>
+        <sys_metadata>54bed41e47a56510f67554f3836d4366</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Order your new corvette here!</sys_name>
+        <sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
+        <sys_scope_delete display_value="">26d1c9c396884dc49575824a8f684a51</sys_scope_delete>
+        <sys_update_name>sp_instance_54bed41e47a56510f67554f3836d4366</sys_update_name>
+        <sys_update_version display_value="sp_instance_54bed41e47a56510f67554f3836d4366">d028ec5647e56510f67554f3836d4353</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-15 04:22:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

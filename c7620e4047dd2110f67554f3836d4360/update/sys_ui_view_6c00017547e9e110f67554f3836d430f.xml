@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Build_Sheet</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-13 16:48:35</sys_created_on>
+        <sys_id>6c00017547e9e110f67554f3836d430f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Build Sheet</sys_name>
+        <sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
+        <sys_update_name>sys_ui_view_6c00017547e9e110f67554f3836d430f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-13 16:48:35</sys_updated_on>
+        <title>Build Sheet</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

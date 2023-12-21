@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="tires" table="x_898415_corvett_0_corvette_builder" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>tires</element>
+            <name>x_898415_corvett_0_corvette_builder</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-13 14:46:20</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>tires</sys_name>
+            <sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
+            <sys_update_name>sys_choice_x_898415_corvett_0_corvette_builder_tires</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-13 14:46:20</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>tires</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MICHELIN® PILOT® SPORT 4S 275/30ZR20 FRONT AND 345/25ZR21 REAR, HIGH PERFORMANCE, RUN-FLAT SUMMER-ON</label>
+            <language>en</language>
+            <name>x_898415_corvett_0_corvette_builder</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-13 14:46:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-13 14:46:20</sys_updated_on>
+            <value>michelin_pilot_sport_4s_275_30zr20_front_and_345_25zr21_rear_high_performance_run_flat_summer_on</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>tires</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MICHELIN® PILOT® SPORT CUP 2R 275/30ZR20 FRONT AND 345/25ZR21 REAR, ULTRA PERFORMANCE, RUN-FLAT SUMM</label>
+            <language>en</language>
+            <name>x_898415_corvett_0_corvette_builder</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-13 14:46:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-13 14:46:20</sys_updated_on>
+            <value>michelin_pilot_sport_cup_2r_275_30zr20_front_and_345_25zr21_rear_ultra_performance_run_flat_summer_only_tires</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

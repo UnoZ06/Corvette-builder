@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Corvette Builder - Container 2</name>
+        <order>2</order>
+        <sp_page display_value="corvette_builder">cb687c9a47792110f67554f3836d4366</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-27 16:03:32</sys_created_on>
+        <sys_id>59fb385e47792110f67554f3836d43ab</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Corvette Builder - Container 2</sys_name>
+        <sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
+        <sys_update_name>sp_container_59fb385e47792110f67554f3836d43ab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-06 21:59:45</sys_updated_on>
+        <title/>
+        <width>container-fluid</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</application>
+        <file_path/>
+        <instance_id>a0074767dbf8451031363feb6896197a</instance_id>
+        <instance_name>dev120610</instance_name>
+        <name>sp_container_59fb385e47792110f67554f3836d43ab</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Corvette Builder - Container 2</name><order>2</order><sp_page display_value="corvette_builder">cb687c9a47792110f67554f3836d4366</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-27 16:03:32</sys_created_on><sys_id>59fb385e47792110f67554f3836d43ab</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Corvette Builder - Container 2</sys_name><sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package><sys_policy/><sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope><sys_update_name>sp_container_59fb385e47792110f67554f3836d43ab</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-06 21:59:45</sys_updated_on><title/><width>container-fluid</width></sp_container></record_update>]]></payload>
+        <payload_hash>-947045214</payload_hash>
+        <record_name>Corvette Builder - Container 2</record_name>
+        <reverted_from/>
+        <source>c7620e4047dd2110f67554f3836d4362</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-06 21:59:45</sys_created_on>
+        <sys_id>206d6d6147422110f67554f3836d4333</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187589531280000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-06 21:59:45</sys_updated_on>
+        <type>Container</type>
+        <update_guid>686d6d6144422110adac4965eb4f9d32</update_guid>
+        <update_guid_history>686d6d6144422110adac4965eb4f9d32:-947045214,b597a12ddf022110989539c15c840a37:255308065,1dfb385ec279211097dfb3428934a4ac:595118014</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Corvette Builder - Container 2">65753d6947422110f67554f3836d43f6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-06 22:35:02</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>0b51baad8a4b40e0899518548796e900</sys_id>
+        <sys_metadata>59fb385e47792110f67554f3836d43ab</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Corvette Builder - Container 2</sys_name>
+        <sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
+        <sys_scope_delete display_value="">26d1c9c396884dc49575824a8f684a51</sys_scope_delete>
+        <sys_update_name>sp_container_59fb385e47792110f67554f3836d43ab</sys_update_name>
+        <sys_update_version display_value="sp_container_59fb385e47792110f67554f3836d43ab">206d6d6147422110f67554f3836d4333</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-06 22:35:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

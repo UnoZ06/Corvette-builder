@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New section 1" section_id="83ea212d47ada110f67554f3836d439a" sys_domain="global" table="x_898415_corvett_0_corvette_order_builder" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>color</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-13 01:17:36</sys_created_on>
+            <sys_id>4fea612d47ada110f67554f3836d4340</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_898415_corvett_0_corvette_order_builder" sys_domain="global" view="Default view">83ea212d47ada110f67554f3836d439a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-13 01:17:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>wheels</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-13 01:17:36</sys_created_on>
+            <sys_id>43ea612d47ada110f67554f3836d4341</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_898415_corvett_0_corvette_order_builder" sys_domain="global" view="Default view">83ea212d47ada110f67554f3836d439a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-13 01:17:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>interior_seats</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-13 01:17:36</sys_created_on>
+            <sys_id>47ea612d47ada110f67554f3836d4341</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_898415_corvett_0_corvette_order_builder" sys_domain="global" view="Default view">83ea212d47ada110f67554f3836d439a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-13 01:17:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New section 1</caption>
+            <header>false</header>
+            <name>x_898415_corvett_0_corvette_order_builder</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-13 01:17:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>83ea212d47ada110f67554f3836d439a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_898415_corvett_0_corvette_order_builder</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
+            <sys_update_name>sys_ui_section_83ea212d47ada110f67554f3836d439a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-13 01:17:36</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</application>
+        <file_path/>
+        <instance_id>a0074767dbf8451031363feb6896197a</instance_id>
+        <instance_name>dev120610</instance_name>
+        <name>sys_ui_section_83ea212d47ada110f67554f3836d439a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New section 1" section_id="83ea212d47ada110f67554f3836d439a" sys_domain="global" table="x_898415_corvett_0_corvette_order_builder" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>color</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-13 01:17:36</sys_created_on><sys_id>4fea612d47ada110f67554f3836d4340</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_898415_corvett_0_corvette_order_builder" sys_domain="global" view="Default view">83ea212d47ada110f67554f3836d439a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-13 01:17:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>wheels</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-13 01:17:36</sys_created_on><sys_id>43ea612d47ada110f67554f3836d4341</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_898415_corvett_0_corvette_order_builder" sys_domain="global" view="Default view">83ea212d47ada110f67554f3836d439a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-13 01:17:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>interior_seats</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-13 01:17:36</sys_created_on><sys_id>47ea612d47ada110f67554f3836d4341</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_898415_corvett_0_corvette_order_builder" sys_domain="global" view="Default view">83ea212d47ada110f67554f3836d439a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-13 01:17:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New section 1</caption><header>false</header><name>x_898415_corvett_0_corvette_order_builder</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-13 01:17:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>83ea212d47ada110f67554f3836d439a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_898415_corvett_0_corvette_order_builder</sys_name><sys_overrides/><sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package><sys_policy/><sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope><sys_update_name>sys_ui_section_83ea212d47ada110f67554f3836d439a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-13 01:17:36</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>109852143</payload_hash>
+        <record_name>Corvette order builder</record_name>
+        <reverted_from/>
+        <source>c7620e4047dd2110f67554f3836d4362</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-13 01:17:36</sys_created_on>
+        <sys_id>43ea612d47ada110f67554f3836d4343</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>186d88b5a340000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-13 01:17:36</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>cbea612decada11074de191a376c2742</update_guid>
+        <update_guid_history>cbea612decada11074de191a376c2742:109852143</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-13 01:18:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>264119b9693b4d7b90dc555d2a2c79c1</sys_id>
+        <sys_metadata>83ea212d47ada110f67554f3836d439a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New section 1</sys_name>
+        <sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package>
+        <sys_parent display_value="">96400dd9476d6110f67554f3836d43da</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
+        <sys_scope_delete display_value="">26d1c9c396884dc49575824a8f684a51</sys_scope_delete>
+        <sys_update_name>sys_ui_section_83ea212d47ada110f67554f3836d439a</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_83ea212d47ada110f67554f3836d439a">43ea612d47ada110f67554f3836d4343</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-13 01:18:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

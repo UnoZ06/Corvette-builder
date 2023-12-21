@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="trim" label="Trim" language="en" table="x_898415_corvett_0_corvette_builder">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>trim</element>
+            <help/>
+            <hint/>
+            <label>Trim</label>
+            <language>en</language>
+            <name>x_898415_corvett_0_corvette_builder</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-13 13:56:40</sys_created_on>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>Trim</sys_name>
+            <sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
+            <sys_update_name>sys_documentation_x_898415_corvett_0_corvette_builder_trim_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-13 14:46:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
