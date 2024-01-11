@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image">
+    <db_image action="DELETE">
+        <active>true</active>
+        <category/>
+        <format/>
+        <height/>
+        <image>4b8ecdb1482de11018e9b9c44d1fde55</image>
+        <name>x_898415_corvett_0.custom_portal_login.svg</name>
+        <size_bytes>12910</size_bytes>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-03-13 17:52:07</sys_created_on>
+        <sys_id>8b8ecdb1952de110bc2a102b29175055</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_898415_corvett_0.custom_portal_login.svg</sys_name>
+        <sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
+        <sys_update_name>db_image_8b8ecdb1952de110bc2a102b29175055</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-03-13 17:52:07</sys_updated_on>
+        <thumbnail/>
+        <width/>
+    </db_image>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</application>
+        <file_path/>
+        <instance_id>a0074767dbf8451031363feb6896197a</instance_id>
+        <instance_name>dev120610</instance_name>
+        <name>db_image_8b8ecdb1952de110bc2a102b29175055</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image"><db_image action="INSERT_OR_UPDATE"><active>true</active><category/><format/><height/><image>4b8ecdb1482de11018e9b9c44d1fde55</image><name>x_898415_corvett_0.custom_portal_login.svg</name><size_bytes>12910</size_bytes><sys_class_name>db_image</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-03-13 17:52:07</sys_created_on><sys_id>8b8ecdb1952de110bc2a102b29175055</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_898415_corvett_0.custom_portal_login.svg</sys_name><sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package><sys_policy/><sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope><sys_update_name>db_image_8b8ecdb1952de110bc2a102b29175055</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-03-13 17:52:07</sys_updated_on><thumbnail/><width/></db_image></record_update>]]></payload>
+        <payload_hash>52774169</payload_hash>
+        <record_name>x_898415_corvett_0.custom_portal_login.svg</record_name>
+        <reverted_from/>
+        <source>9f69a63347012110f67554f3836d43c6</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-02-23 09:05:37</sys_created_on>
+        <sys_id>f2f6b45a47792110f67554f3836d433c</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1867d855ae80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Images</type>
+        <update_guid>b2f6b45a4a79211080d113f79e4b003c</update_guid>
+        <update_guid_history>b2f6b45a4a79211080d113f79e4b003c:52774169</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_898415_corvett_0.custom_portal_login.svg">3af6b45a47792110f67554f3836d4341</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-27 15:41:48</sys_created_on>
+        <sys_db_object display_value="" name="db_image">db_image</sys_db_object>
+        <sys_id>389d89930f5c490b90edf552e40bb0b1</sys_id>
+        <sys_metadata>8b8ecdb1952de110bc2a102b29175055</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_898415_corvett_0.custom_portal_login.svg</sys_name>
+        <sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
+        <sys_scope_delete display_value="">26d1c9c396884dc49575824a8f684a51</sys_scope_delete>
+        <sys_update_name>db_image_8b8ecdb1952de110bc2a102b29175055</sys_update_name>
+        <sys_update_version display_value="db_image_8b8ecdb1952de110bc2a102b29175055">f2f6b45a47792110f67554f3836d433c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-27 15:41:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

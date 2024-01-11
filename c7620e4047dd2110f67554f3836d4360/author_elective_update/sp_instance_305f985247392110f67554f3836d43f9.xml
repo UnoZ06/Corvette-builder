@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">38dd949e47f52110f67554f3836d4363</sp_column>
+        <sp_widget display_value="My Items">6e449453c33030105a09f0ad9840ddf0</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-27 13:58:26</sys_created_on>
+        <sys_id>305f985247392110f67554f3836d43f9</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
+        <sys_update_name>sp_instance_305f985247392110f67554f3836d43f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-27 14:11:16</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=305f985247392110f67554f3836d43f9"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</application>
+        <file_path/>
+        <instance_id>a0074767dbf8451031363feb6896197a</instance_id>
+        <instance_name>dev120610</instance_name>
+        <name>sp_instance_305f985247392110f67554f3836d43f9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">38dd949e47f52110f67554f3836d4363</sp_column><sp_widget display_value="My Items">6e449453c33030105a09f0ad9840ddf0</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-27 13:58:26</sys_created_on><sys_id>305f985247392110f67554f3836d43f9</sys_id><sys_mod_count>7</sys_mod_count><sys_name/><sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package><sys_policy/><sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope><sys_update_name>sp_instance_305f985247392110f67554f3836d43f9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-27 14:11:16</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=305f985247392110f67554f3836d43f9"/></record_update>]]></payload>
+        <payload_hash>369147911</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>c7620e4047dd2110f67554f3836d4362</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-27 14:11:16</sys_created_on>
+        <sys_id>3442645647392110f67554f3836d4367</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1872368b2d70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-27 14:11:16</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>7c42645699392110faee4494fea36866</update_guid>
+        <update_guid_history>7c42645699392110faee4494fea36866:369147911,a2e024d2de392110501c1055ea350078:-405947640,c8e02cd2ce392110f0146f5ba88ddd39:369147911,47d02cd2cb392110fced9bfaff222507:-405947640,38d0e8d2a1392110fb8b5a910a94164c:369147911,dcc02892e03921106a072356e590c083:-405947640,0e6f549222392110153b81043802f22e:369147911,745fd092a53921100283a04516452da0:-405947640</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">3f42e05647392110f67554f3836d43c0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-27 14:11:28</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>a5d31ce2e8be4c7cb50a301abc50f019</sys_id>
+        <sys_metadata>305f985247392110f67554f3836d43f9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
+        <sys_scope_delete display_value="">26d1c9c396884dc49575824a8f684a51</sys_scope_delete>
+        <sys_update_name>sp_instance_305f985247392110f67554f3836d43f9</sys_update_name>
+        <sys_update_version display_value="sp_instance_305f985247392110f67554f3836d43f9">3442645647392110f67554f3836d4367</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-27 14:11:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

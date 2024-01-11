@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="Interior Trim">10e0a60a47ed2510f67554f3836d438f</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-13 04:10:19</sys_created_on>
+        <sys_id>cbc3a2ca47ed2510f67554f3836d43cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sky Cool Gray, Napa leather seating surfaces with perforated inserts</sys_name>
+        <sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
+        <sys_update_name>question_choice_cbc3a2ca47ed2510f67554f3836d43cd</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-04-13 04:12:22</sys_updated_on>
+        <text>Sky Cool Gray, Napa leather seating surfaces with perforated inserts</text>
+        <value>sky_cool_gray_napa_leather_seating_surfaces_with_perforated_inserts</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=cbc3a2ca47ed2510f67554f3836d43cd"/>
+</record_update>

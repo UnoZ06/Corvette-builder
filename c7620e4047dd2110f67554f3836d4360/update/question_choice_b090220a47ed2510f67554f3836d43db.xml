@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <misc>500</misc>
+        <order>1000</order>
+        <published_ref/>
+        <question display_value="Color">8c0d5e0647ed2510f67554f3836d4303</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-13 04:10:20</sys_created_on>
+        <sys_id>b090220a47ed2510f67554f3836d43db</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Rapid Blue</sys_name>
+        <sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
+        <sys_update_name>question_choice_b090220a47ed2510f67554f3836d43db</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-04-13 04:12:24</sys_updated_on>
+        <text>Rapid Blue</text>
+        <value>rapid_blue</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=b090220a47ed2510f67554f3836d43db"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>500</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>b090220a47ed2510f67554f3836d43db</id>
+        <parent/>
+        <reference_amount>500</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-15 02:50:45</sys_created_on>
+        <sys_id>4b635c5247a56510f67554f3836d4309</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-15 02:50:45</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>f28ecdb1472de110f67554f3836d4327</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes>{"login":"login","logout": "login"}</auth_routes>
+        <page/>
+        <parent_app/>
+        <path>corvette-builder</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-03-13 17:52:09</sys_created_on>
+        <sys_id>c78ecdb1df2de110c21981b323b9b542</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Corvette Builder</sys_name>
+        <sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
+        <sys_update_name>sys_ux_page_registry_c78ecdb1df2de110c21981b323b9b542</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-03-13 17:52:09</sys_updated_on>
+        <title>Corvette Builder</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</application>
+        <file_path/>
+        <instance_id>a0074767dbf8451031363feb6896197a</instance_id>
+        <instance_name>dev120610</instance_name>
+        <name>sys_ux_page_registry_c78ecdb1df2de110c21981b323b9b542</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>f28ecdb1472de110f67554f3836d4327</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes>{"login":"login","logout": "login"}</auth_routes><page/><parent_app/><path>corvette-builder</path><root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-03-13 17:52:09</sys_created_on><sys_id>c78ecdb1df2de110c21981b323b9b542</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Corvette Builder</sys_name><sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package><sys_policy/><sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope><sys_update_name>sys_ux_page_registry_c78ecdb1df2de110c21981b323b9b542</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-03-13 17:52:09</sys_updated_on><title>Corvette Builder</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>593240225</payload_hash>
+        <record_name>Corvette Builder</record_name>
+        <reverted_from/>
+        <source>9f69a63347012110f67554f3836d43c6</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-02-23 09:05:37</sys_created_on>
+        <sys_id>cff3ec9647392110f67554f3836d438a</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1867d855ae80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>8ff3ec9672392110cc688a8f074b548a</update_guid>
+        <update_guid_history>8ff3ec9672392110cc688a8f074b548a:593240225</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-27 14:18:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>96ddf0e7289545c794a439f05368cbe1</sys_id>
+        <sys_metadata>c78ecdb1df2de110c21981b323b9b542</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Corvette Builder</sys_name>
+        <sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
+        <sys_scope_delete display_value="">26d1c9c396884dc49575824a8f684a51</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_c78ecdb1df2de110c21981b323b9b542</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_c78ecdb1df2de110c21981b323b9b542">cff3ec9647392110f67554f3836d438a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-27 14:18:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

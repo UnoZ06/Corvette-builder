@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Corvette">3a0e45b1472de110f67554f3836d4300</sc_cat_item>
+        <sc_category display_value="Vehicles">eb8715b9472de110f67554f3836d43c3</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-13 18:34:10</sys_created_on>
+        <sys_id>1b28193d472de110f67554f3836d43be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vehicles.Corvette</sys_name>
+        <sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
+        <sys_update_name>sc_cat_item_category_1b28193d472de110f67554f3836d43be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-13 18:34:10</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</application>
+        <file_path/>
+        <instance_id>a0074767dbf8451031363feb6896197a</instance_id>
+        <instance_name>dev120610</instance_name>
+        <name>sc_cat_item_category_1b28193d472de110f67554f3836d43be</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Corvette">3a0e45b1472de110f67554f3836d4300</sc_cat_item><sc_category display_value="Vehicles">eb8715b9472de110f67554f3836d43c3</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-13 18:34:10</sys_created_on><sys_id>1b28193d472de110f67554f3836d43be</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Vehicles.Corvette</sys_name><sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package><sys_policy/><sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope><sys_update_name>sc_cat_item_category_1b28193d472de110f67554f3836d43be</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-13 18:34:10</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1746183344</payload_hash>
+        <record_name>Vehicles.Corvette</record_name>
+        <reverted_from/>
+        <source>c7620e4047dd2110f67554f3836d4362</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-13 18:34:10</sys_created_on>
+        <sys_id>9728193d472de110f67554f3836d43c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>186dc405c4f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-13 18:34:10</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>1f28193db02de1105085e7bcdd0ec9c1</update_guid>
+        <update_guid_history>1f28193db02de1105085e7bcdd0ec9c1:-1746183344</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Vehicles.Corvette">b4889d3d472de110f67554f3836d4363</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-13 18:35:38</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>5dce0351ca2b49acaab7fec3ab1ba469</sys_id>
+        <sys_metadata>1b28193d472de110f67554f3836d43be</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vehicles.Corvette</sys_name>
+        <sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
+        <sys_scope_delete display_value="">26d1c9c396884dc49575824a8f684a51</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_1b28193d472de110f67554f3836d43be</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_1b28193d472de110f67554f3836d43be">9728193d472de110f67554f3836d43c2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-13 18:35:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

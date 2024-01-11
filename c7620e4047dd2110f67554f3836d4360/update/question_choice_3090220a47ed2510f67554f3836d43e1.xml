@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>1200</order>
+        <published_ref/>
+        <question display_value="Color">8c0d5e0647ed2510f67554f3836d4303</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-13 04:10:20</sys_created_on>
+        <sys_id>3090220a47ed2510f67554f3836d43e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Silver Flare Metallic</sys_name>
+        <sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
+        <sys_update_name>question_choice_3090220a47ed2510f67554f3836d43e1</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-04-13 04:12:25</sys_updated_on>
+        <text>Silver Flare Metallic</text>
+        <value>silver_flare_metallic</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=3090220a47ed2510f67554f3836d43e1"/>
+</record_update>

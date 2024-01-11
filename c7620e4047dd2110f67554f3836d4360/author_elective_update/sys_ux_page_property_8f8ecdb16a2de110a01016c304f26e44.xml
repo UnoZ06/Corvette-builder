@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="">c78ecdb1df2de110c21981b323b9b542</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Login">c78ecdb1ee2de110fca81a6458f3b74e</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-03-13 17:52:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>8f8ecdb16a2de110a01016c304f26e44</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
+        <sys_update_name>sys_ux_page_property_8f8ecdb16a2de110a01016c304f26e44</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-03-13 17:52:09</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_898415_corvett_0.c78ecdb1df2de110c21981b323b9b542.route.chrome_header.c78ecdb1ee2de110fca81a6458f3b74e</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    },&#13;
+    "publicPage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    }&#13;
+ }</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</application>
+        <file_path/>
+        <instance_id>a0074767dbf8451031363feb6896197a</instance_id>
+        <instance_name>dev120610</instance_name>
+        <name>sys_ux_page_property_8f8ecdb16a2de110a01016c304f26e44</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="">c78ecdb1df2de110c21981b323b9b542</page><required_translations>[]</required_translations><route display_value="Login">c78ecdb1ee2de110fca81a6458f3b74e</route><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-03-13 17:52:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>8f8ecdb16a2de110a01016c304f26e44</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package><sys_policy/><sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope><sys_update_name>sys_ux_page_property_8f8ecdb16a2de110a01016c304f26e44</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-03-13 17:52:09</sys_updated_on><type>json</type><unique_name>x_898415_corvett_0.c78ecdb1df2de110c21981b323b9b542.route.chrome_header.c78ecdb1ee2de110fca81a6458f3b74e</unique_name><value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    },&#13;
+    "publicPage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    }&#13;
+ }</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-621379378</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source>9f69a63347012110f67554f3836d43c6</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-02-23 09:05:37</sys_created_on>
+        <sys_id>47f3e0d647392110f67554f3836d4372</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1867d855ae80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>07f3e0d610392110e41f72d32f686f72</update_guid>
+        <update_guid_history>07f3e0d610392110e41f72d32f686f72:-621379378</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-27 14:18:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>60b9d64d253049548250403d308ae690</sys_id>
+        <sys_metadata>8f8ecdb16a2de110a01016c304f26e44</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Corvette Builder" source="x_898415_corvett_0">c7620e4047dd2110f67554f3836d4360</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Corvette Builder">c7620e4047dd2110f67554f3836d4360</sys_scope>
+        <sys_scope_delete display_value="">26d1c9c396884dc49575824a8f684a51</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_8f8ecdb16a2de110a01016c304f26e44</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_8f8ecdb16a2de110a01016c304f26e44">47f3e0d647392110f67554f3836d4372</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-27 14:18:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

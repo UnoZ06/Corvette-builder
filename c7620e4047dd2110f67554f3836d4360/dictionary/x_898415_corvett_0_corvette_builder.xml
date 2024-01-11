@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f7142e6147a1e110f67554f3836d43af" extends="task" label="Corvette Builder" max_length="40" name="x_898415_corvett_0_corvette_builder" type="collection">
+        <element label="Address" mandatory="true" max_length="40" name="address" type="string"/>
+        <element choice="3" default="arctic_white" label="Color" max_length="40" name="color" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Arctic White" sequence="0" value="arctic_white"/>
+                <element inactive_on_update="false" label="Black" sequence="1" value="black"/>
+                <element inactive_on_update="false" label="Torch Red" sequence="2" value="torch_red"/>
+                <element inactive_on_update="false" label="Ceramic Matrix Gray" sequence="3" value="ceramic_matrix_gray"/>
+                <element inactive_on_update="false" label="Elkhart Lake Blue Metallic" sequence="4" value="elkhart_lake_blue_metallic"/>
+                <element inactive_on_update="false" label="Hypersonic Gray Metallic" sequence="5" value="hypersonic_gray_metallic"/>
+                <element inactive_on_update="false" label="Carbon Flash Metallic" sequence="6" value="carbon_flash_metallic"/>
+                <element inactive_on_update="false" label="White Pearl Metallic Tricoat" sequence="7" value="white_pearl_metallic_tricoat"/>
+                <element inactive_on_update="false" label="Silver Flare Metallic" sequence="8" value="silver_flare_metallic"/>
+                <element inactive_on_update="false" label="Caffeine Metallic" sequence="9" value="caffeine_metallic"/>
+                <element inactive_on_update="false" label="Accelerate Yellow Metallic" sequence="10" value="accelerate_yellow_metallic"/>
+                <element inactive_on_update="false" label="Rapid Blue" sequence="11" value="rapid_blue"/>
+                <element inactive_on_update="false" label="Amplify Orange Tintcoat" sequence="12" value="amplify_orange_tintcoat"/>
+                <element inactive_on_update="false" label="Red Mist Tintcoat" sequence="13" value="red_mist_tintcoat"/>
+            </choice>
+        </element>
+        <element default="1,500" label="Deposit" max_length="38" name="deposit" read_only="true" type="price"/>
+        <element default="1500" label="Due Today" max_length="38" name="due_today" read_only="true" type="currency"/>
+        <element label="First Name" mandatory="true" max_length="40" name="first_name" type="string"/>
+        <element choice="3" default="Jet Black, Napa leather seating surfaces with perforated inserts" label="Interior seats and color" max_length="40" name="interior_seats_and_color" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Jet Black, Napa leather seating surfaces with perforated inserts" sequence="0" value="Jet Black, Napa leather seating surfaces with perforated inserts"/>
+                <element inactive_on_update="false" label="Sky Cool Gray, Napa leather seating surfaces with perforated inserts" sequence="1" value="Sky Cool Gray, Napa leather seating surfaces with perforated inserts"/>
+                <element inactive_on_update="false" label="Adrenaline Red, Napa leather seating surfaces with perforated inserts" sequence="2" value="Adrenaline Red, Napa leather seating surfaces with perforated inserts"/>
+                <element inactive_on_update="false" label="Adrenaline Red dipped, Napa leather seating surfaces with perforated inserts" sequence="3" value="Adrenaline Red dipped, Napa leather seating surfaces with perforated inserts"/>
+                <element inactive_on_update="false" label="Natural, Napa leather seating surfaces with perforated inserts" sequence="4" value="Natural, Napa leather seating surfaces with perforated inserts"/>
+                <element inactive_on_update="false" label="Natural dipped, Napa leather seating surfaces with perforated inserts" sequence="5" value="Natural dipped, Napa leather seating surfaces with perforated inserts"/>
+                <element inactive_on_update="false" label="Tension Blue/Twilight Blue Dipped, Napa leather seating surfaces with perforated inserts" sequence="6" value="Tension Blue/Twilight Blue Dipped, Napa leather seating surfaces with perforated inserts"/>
+                <element inactive_on_update="false" label="Jet Black, Napa leather seating surfaces with perforated sueded microfiber inserts" sequence="7" value="Jet Black, Napa leather seating surfaces with perforated sueded microfiber inserts"/>
+                <element inactive_on_update="false" label="Sky Cool Gray, Napa leather seating surfaces with perforated sueded microfiber inserts" sequence="8" value="Sky Cool Gray, Napa leather seating surfaces with perforated sueded microfiber inserts"/>
+                <element inactive_on_update="false" label="Custom Interior Combination interior, Napa leather seating surfaces with perforated inserts" sequence="9" value="Custom Interior Combination interior, Napa leather seating surfaces with perforated inserts"/>
+                <element inactive_on_update="false" label="Custom Interior Combination, Napa leather seating surfaces with perforated sueded microfiber inserts" sequence="10" value="Custom Interior Combination, Napa leather seating surfaces with perforated sueded microfiber inserts"/>
+            </choice>
+        </element>
+        <element label="Last name" mandatory="true" max_length="40" name="last_name" type="string"/>
+        <element choice="3" default="coupe_z06" label="Model" mandatory="true" max_length="40" name="model" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Coupe Z06" sequence="0" value="coupe_z06"/>
+                <element inactive_on_update="false" label="Convertible Z06" sequence="1" value="convertible_z06"/>
+            </choice>
+        </element>
+        <element label="PII(SSN)" mandatory="true" max_length="40" name="pii_ssn" type="string"/>
+        <element label="State code" mandatory="true" max_length="2" name="state_code" type="string"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Submitted" sequence="0" value="submitted"/>
+                <element inactive_on_update="false" label="In Progress" sequence="1" value="in_progress"/>
+                <element inactive_on_update="false" label="Delayed" sequence="2" value="delayed"/>
+                <element inactive_on_update="false" label="Completed" sequence="3" value="completed"/>
+                <element inactive_on_update="false" label="Shipped" sequence="4" value="shipped"/>
+            </choice>
+        </element>
+        <element choice="3" default="michelin_pilot_sport_4s_275_30zr20_front_and_345_25zr21_rear_high_performance_run_flat_summer_on" label="Tires" max_length="40" name="tires" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="MICHELIN® PILOT® SPORT 4S 275/30ZR20 FRONT AND 345/25ZR21 REAR, HIGH PERFORMANCE, RUN-FLAT SUMMER-ON" sequence="0" value="michelin_pilot_sport_4s_275_30zr20_front_and_345_25zr21_rear_high_performance_run_flat_summer_on"/>
+                <element inactive_on_update="false" label="MICHELIN® PILOT® SPORT CUP 2R 275/30ZR20 FRONT AND 345/25ZR21 REAR, ULTRA PERFORMANCE, RUN-FLAT SUMM" sequence="1" value="michelin_pilot_sport_cup_2r_275_30zr20_front_and_345_25zr21_rear_ultra_performance_run_flat_summer_only_tires"/>
+            </choice>
+        </element>
+        <element choice="1" default="lz1" label="Trim" mandatory="true" max_length="40" name="trim" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="LZ1" sequence="0" value="lz1"/>
+                <element inactive_on_update="false" label="LZ2" sequence="1" value="lz2"/>
+                <element inactive_on_update="false" label="LZ3" sequence="2" value="lz3"/>
+            </choice>
+        </element>
+        <element choice="3" default="front_21_rear_spider_design_titanium" label="Wheels" max_length="40" name="wheels" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="20&quot; FRONT/21&quot; REAR SPIDER-DESIGN TITANIUM" sequence="0" value="front_21_rear_spider_design_titanium"/>
+                <element inactive_on_update="false" label="20&quot; FRONT/21&quot; REAR SPIDER-DESIGN SATIN GRAPHITE" sequence="1" value="front_21_rear_spider_design_satin_graphite"/>
+                <element inactive_on_update="false" label="20&quot; FRONT/21&quot; REAR SPIDER-DESIGN BLACK" sequence="2" value="front_21_rear_spider_design_black"/>
+                <element inactive_on_update="false" label="20&quot; FRONT/21&quot; REAR SPIDER-DESIGN MACHINED-FACE" sequence="3" value="front_21_rear_spider_design_machined_face"/>
+                <element inactive_on_update="false" label="20&quot; FRONT/21&quot; REAR SPIDER-DESIGN SATIN GRAPHITE FORGED ALUMINUM WHEELS WITH RED STRIP" sequence="4" value="front_21_rear_spider_design_satin_graphite_forged_aluminum_wheels_with_red_strip"/>
+                <element inactive_on_update="false" label="20&quot; FRONT/21&quot; REAR SPIDER-DESIGN TECH BRONZE" sequence="5" value="front_21_rear_spider_design_tech_bronze"/>
+                <element inactive_on_update="false" label="20&quot; FRONT/21&quot; REAR CARBON FLASH-PAINTED CARBON FIBER WHEELS" sequence="6" value="front_21_rear_carbon_flash_painted_carbon_fiber_wheels"/>
+                <element inactive_on_update="false" label="20&quot; FRONT/21&quot; REAR VISIBLE CARBON FIBER WHEELS" sequence="7" value="front_21_rear_visible_carbon_fiber_wheels"/>
+            </choice>
+        </element>
+        <element label="Z07 Package" max_length="255" name="z07_package" type="boolean"/>
+        <element label="Zip code" mandatory="true" max_length="40" name="zip_code" type="string"/>
+    </element>
+</database>
